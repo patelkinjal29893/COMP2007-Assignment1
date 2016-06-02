@@ -1,0 +1,14 @@
+﻿
+/*All css code goes here*/
+body {
+    background-image:url(../Images/image1.jpg);
+}
+p ,table, h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size:xx-large;
+    color:honeydew;   
+}
+img {
+    border:solid 5px darkred ;
+}
+
